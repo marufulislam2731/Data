@@ -1,2 +1,1 @@
-# Data
 Educational Management System
